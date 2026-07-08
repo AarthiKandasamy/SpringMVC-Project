@@ -52,7 +52,6 @@ public class AddEmployeeRepository {
 	public void deleteEmployee(int id) {
 		Session ses = sef.openSession();
 	    Transaction tran = ses.beginTransaction();
-	    tran.begin();
 	    Employee emp = ses.get(Employee.class, id);
 	    if(emp != null){
 	        ses.delete(emp);
