@@ -48,8 +48,6 @@ This is a simple Spring MVC application built to understand the fundamentals of 
 ### ✏️ Update Employee
 ![Update Employee](/Screenshots/UpdateEmployee.png)
 
-### 🗑️ Delete Employee
-![Delete Employee](screenshots/delete-employee.png)
 
 ## Purpose
 
