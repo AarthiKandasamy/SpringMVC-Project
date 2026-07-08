@@ -37,7 +37,7 @@ This is a simple Spring MVC application built to understand the fundamentals of 
 ## Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Dashboard.png)
+![Home Page](/Screenshots/Dashboard.png)
 
 ### ➕ Add Employee
 ![Add Employee](screenshots/add-employee.png)
