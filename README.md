@@ -43,10 +43,10 @@ This is a simple Spring MVC application built to understand the fundamentals of 
 ![Add Employee](/Screenshots/AddEmployee.png)
 
 ### 📋 Employee List
-![Employee List](/Screenshots/UpdateEmployee.png)
+![Employee List](/Screenshots/DisplayEmployee.png)
 
 ### ✏️ Update Employee
-![Update Employee](screenshots/update-employee.png)
+![Update Employee](/Screenshots/UpdateEmployee.png)
 
 ### 🗑️ Delete Employee
 ![Delete Employee](screenshots/delete-employee.png)
