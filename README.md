@@ -1,9 +1,11 @@
 # Spring MVC Project
 
 ## Overview
+
 This is a simple Spring MVC application built to understand the fundamentals of Spring MVC architecture.
 
 ## Features
+
 - Add Employee
 - View Employee Details
 - Update Employee Information
@@ -13,6 +15,7 @@ This is a simple Spring MVC application built to understand the fundamentals of 
 - MySQL Database Integration
 
 ## Technologies Used
+
 - Java
 - Spring MVC
 - Hibernate/JPA
@@ -24,16 +27,36 @@ This is a simple Spring MVC application built to understand the fundamentals of 
 - Eclipse IDE
 
 ## Project Structure
+
 - Controller Layer
 - Service Layer
 - DAO Layer
 - Model Layer
 - View Layer (JSP)
 
+## Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/Dashboard.png)
+
+### ➕ Add Employee
+![Add Employee](screenshots/add-employee.png)
+
+### 📋 Employee List
+![Employee List](screenshots/employee-list.png)
+
+### ✏️ Update Employee
+![Update Employee](screenshots/update-employee.png)
+
+### 🗑️ Delete Employee
+![Delete Employee](screenshots/delete-employee.png)
+
 ## Purpose
+
 This project was created as part of Java Full Stack training to gain hands-on experience with Spring MVC and database integration.
 
 ## Future Improvements
+
 - Spring Boot Migration
 - REST APIs
 - Spring Security
