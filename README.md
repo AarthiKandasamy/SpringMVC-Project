@@ -40,7 +40,7 @@ This is a simple Spring MVC application built to understand the fundamentals of 
 ![Home Page](/Screenshots/Dashboard.png)
 
 ### ➕ Add Employee
-![Add Employee](screenshots/add-employee.png)
+![Add Employee](screenshots/AddEmployee.png)
 
 ### 📋 Employee List
 ![Employee List](screenshots/employee-list.png)
